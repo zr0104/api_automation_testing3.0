@@ -1,0 +1,15 @@
+[Unit]
+Description=iCash Backend Service Health Check
+
+[Service]
+Environment="AUTO_ENV=hk"
+User=root
+Group=root
+WorkingDirectory=/opt/app/icash_automation_test_pipeline
+ExecStart=/usr/bin/python3 /opt/app/icash_automation_test_pipeline/run_case.py & echo $! > /opt/app/service_automation_test.pid
+ExecStop=kill `cat /opt/app/service_automation_test.pid`
+Restart=on-failure
+
+
+[Install]
+WantedBy=multi-user.target

@@ -1,0 +1,25 @@
+{
+  "hosthk": "https://icash-hk-sit.gcp.cloud.hk.hsbc",
+  "hostmx": "https://icash-mexico-dev-cloud-gcp.mx.hsbc",
+  "hklogin": "https://icash-hk-sit.gcp.cloud.hk.hsbc/login",
+  "mxlogin": "https://icash-mexico-dev-cloud-gcp.mx.hsbc/icash-mexico/login",
+  "key": "'OTBQDg8NDtSNtGGw35IKevckBrigRBR6a4qpn5WWq6s='",
+  "username": "'gAAAAABkL8LgsC6naquVyXsTPVS8NxvcnFsflh33G7LYaALc6DA8pRU1S8ZxuwCsWe-pLUO9gUtc1N0ujoYJvLDa_whKUjPMTQ=='",
+  "password": "'gAAAAABkL8dd-YJ_CPuwZpt0sI25GL1sLTRA_fqSzKgEb5aaww8_Pllz9LXXPTj1BALbUpGa-icWppeo2G8hWEi6QsdaJFra5Q=='",
+  "headerhk": {
+    "Accept":"application/json, text/plain, */*",
+    "Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8",
+    "Connection":"keep-alive",
+    "Content-Type":"application/json;charset=UTF-8",
+    "appId":"5443534543",
+    "applicationId": "BBDM"
+  },
+  "headermx": {
+    "Accept":"application/json, text/plain, */*",
+    "Accept-Language":"zh-CN,zh;q=0.9,en;q=0.8",
+    "Connection":"keep-alive",
+    "Content-Type":"application/json;charset=UTF-8",
+    "appId":"5443534543",
+    "applicationId": "BBDM"
+  }
+}

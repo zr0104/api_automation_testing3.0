@@ -1,0 +1,86 @@
+http://www.imooc.com/api3/getbanneradvertver2
+
+'timestamp':'1561269343481',
+'uid':'7213561',
+'token':'7ad09430cbaf927af642ab843ec374ef',
+'type':'1',
+'marking':'androidbanner',
+'uuid':'41b650ef846688193728ff7381eb6c1c',
+'secrect':'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWUiOiI3MjEzNTYxIiwianRpIjoiM2I2NDg0NjQ2Nzk4NjI3NzU1YjRmZWE0ODliMDNmNmUiLCJkZXZpY2UiOiJtb2JpbGUifQ.EvGIFSHhij4lgEMdCtotFoTMtWSJLwVvridsoaWzdZY',
+
+http://www.imooc.com/api3/beta4
+
+'timestamp':'1561269343486',
+'uid':'7213561',
+'token':'66640986fb118dda4334719ac8afbf89',
+'uuid':'41b650ef846688193728ff7381eb6c1c',
+'secrect':'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWUiOiI3MjEzNTYxIiwianRpIjoiM2I2NDg0NjQ2Nzk4NjI3NzU1YjRmZWE0ODliMDNmNmUiLCJkZXZpY2UiOiJtb2JpbGUifQ.EvGIFSHhij4lgEMdCtotFoTMtWSJLwVvridsoaWzdZY',
+
+http://www.imooc.com/api3/newcourseskill
+
+'timestamp':'1561269343500',
+'uid':'7213561',
+'token':'69b96dd84b7d96c7b24ee398fcdb4048',
+'uuid':'41b650ef846688193728ff7381eb6c1c',
+'secrect':'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWUiOiI3MjEzNTYxIiwianRpIjoiM2I2NDg0NjQ2Nzk4NjI3NzU1YjRmZWE0ODliMDNmNmUiLCJkZXZpY2UiOiJtb2JpbGUifQ'
+
+
+http://www.imooc.com/api3/getdownrecommend
+
+'timestamp':'1561269343514',
+'uid':'7213561',
+'token':'90badf680c1d1cfed2e386c786477975',
+'uuid':'41b650ef846688193728ff7381eb6c1c',
+'secrect':'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWUiOiI3MjEzNTYxIiwianRpIjoiM2I2NDg0NjQ2Nzk4NjI3NzU1YjRmZWE0ODliMDNmNmUiLCJkZXZpY2UiOiJtb2JpbGUifQ.EvGIFSHhij4lgEMdCtotFoTMtWSJLwVvridsoaWzdZY'	
+
+http://www.imooc.com/api3/searcharticle
+
+'words':'java',
+'timestamp':'1561269452249',
+'uid':'7213561',
+'token':'5fb81f722c225ac81da58398937e3d4d',
+'page':'1',
+'uuid':'41b650ef846688193728ff7381eb6c1c',
+'secrect':'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWUiOiI3MjEzNTYxIiwianRpIjoiM2I2NDg0NjQ2Nzk4NjI3NzU1YjRmZWE0ODliMDNmNmUiLCJkZXZpY2UiOiJtb2JpbGUifQ.EvGIFSHhij4lgEMdCtotFoTMtWSJLwVvridsoaWzdZY'	
+
+http://www.imooc.com/api3/tweetpub
+
+'timestamp':'1561269463299',
+'uid':'7213561',
+'token':'71abb3fc2d872e1789a7779d35691588',
+'page':'1',
+'pagesize':'15',
+'uuid':'41b650ef846688193728ff7381eb6c1c',
+'secrect':'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWUiOiI3MjEzNTYxIiwianRpIjoiM2I2NDg0NjQ2Nzk4NjI3NzU1YjRmZWE0ODliMDNmNmUiLCJkZXZpY2UiOiJtb2JpbGUifQ.EvGIFSHhij4lgEMdCtotFoTMtWSJLwVvridsoaWzdZY'	
+
+http://www.imooc.com/api3/courselistinfo
+
+'cat_type':'1260',
+'course_type':'1',
+'token':'69d643f49e501526d53c96e2b042343f',
+'uuid':'41b650ef846688193728ff7381eb6c1c',
+'sort_type':'1',
+'timestamp':'1561269496626',
+'uid':'7213561',
+'page':'0',
+'secrect':'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWUiOiI3MjEzNTYxIiwianRpIjoiM2I2NDg0NjQ2Nzk4NjI3NzU1YjRmZWE0ODliMDNmNmUiLCJkZXZpY2UiOiJtb2JpbGUifQ.EvGIFSHhij4lgEMdCtotFoTMtWSJLwVvridsoaWzdZY'	
+
+
+http://www.imooc.com/api3/getmedialist
+'cid':'1092',
+'timestamp':'1561269518383',
+'uid':'7213561',
+'token':'a93218c4ad0abd4207f6156733c8c144',
+'uuid':'41b650ef846688193728ff7381eb6c1c',
+'secrect':'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWUiOiI3MjEzNTYxIiwianRpIjoiM2I2NDg0NjQ2Nzk4NjI3NzU1YjRmZWE0ODliMDNmNmUiLCJkZXZpY2UiOiJtb2JpbGUifQ.EvGIFSHhij4lgEMdCtotFoTMtWSJLwVvridsoaWzdZY'	
+
+
+
+header = {
+    'User-Agent':'mukewang/5.1.2 (Android 5.1.1; Xiaomi MIX Build/LMY48Z),Network WIFI',
+    'APP-INFO':'mukewang/5.1.2 (Android 5.1.1; Xiaomi MIX Build/LMY48Z),Network WIFI',
+    'Content-Type':'application/x-www-form-urlencoded',
+    'Content-Length':'337',
+    'Host':'www.imooc.com',
+    'Connection':'Keep-Alive'
+}

@@ -1,0 +1,84 @@
+2023-04-09 21:51:09,121-run_case_ddt.py-[line:42]-INFO - 日志信息：【Start executing the test case：Check login page】
+2023-04-09 21:51:09,121-run_case_ddt.py-[line:42]-INFO - 日志信息：【Start executing the test case：Check login page】
+2023-04-09 21:51:09,121-run_case_ddt.py-[line:42]-INFO - 日志信息：【Start executing the test case：Check login page】
+2023-04-09 21:51:09,122-run_case_ddt.py-[line:48]-INFO - 日志信息：Request parameters: {'exchangeId': '4170', 'companyTaxNo': '91310113MA1GLFN21P', 'signType': '1', 'signInfo': '24d9415fb799bed2f931b321b909d39c'}
+2023-04-09 21:51:09,122-run_case_ddt.py-[line:48]-INFO - 日志信息：Request parameters: {'exchangeId': '4170', 'companyTaxNo': '91310113MA1GLFN21P', 'signType': '1', 'signInfo': '24d9415fb799bed2f931b321b909d39c'}
+2023-04-09 21:51:09,122-run_case_ddt.py-[line:48]-INFO - 日志信息：Request parameters: {'exchangeId': '4170', 'companyTaxNo': '91310113MA1GLFN21P', 'signType': '1', 'signInfo': '24d9415fb799bed2f931b321b909d39c'}
+2023-04-09 21:51:09,516-run_case_ddt.py-[line:42]-INFO - 日志信息：【Start executing the test case：Check login page】
+2023-04-09 21:51:09,516-run_case_ddt.py-[line:42]-INFO - 日志信息：【Start executing the test case：Check login page】
+2023-04-09 21:51:09,516-run_case_ddt.py-[line:42]-INFO - 日志信息：【Start executing the test case：Check login page】
+2023-04-09 21:51:09,516-run_case_ddt.py-[line:42]-INFO - 日志信息：【Start executing the test case：Check login page】
+2023-04-09 21:51:09,517-run_case_ddt.py-[line:48]-INFO - 日志信息：Request parameters: {'translateResult': [[{'tgt': '测试界面', 'src': 'test interface'}]], 'errorCode': 0, 'type': 'en2zh-CHS', 'smartResult': {'entries': ['', '测试接口\r\n'], 'type': 1}}
+2023-04-09 21:51:09,517-run_case_ddt.py-[line:48]-INFO - 日志信息：Request parameters: {'translateResult': [[{'tgt': '测试界面', 'src': 'test interface'}]], 'errorCode': 0, 'type': 'en2zh-CHS', 'smartResult': {'entries': ['', '测试接口\r\n'], 'type': 1}}
+2023-04-09 21:51:09,517-run_case_ddt.py-[line:48]-INFO - 日志信息：Request parameters: {'translateResult': [[{'tgt': '测试界面', 'src': 'test interface'}]], 'errorCode': 0, 'type': 'en2zh-CHS', 'smartResult': {'entries': ['', '测试接口\r\n'], 'type': 1}}
+2023-04-09 21:51:09,517-run_case_ddt.py-[line:48]-INFO - 日志信息：Request parameters: {'translateResult': [[{'tgt': '测试界面', 'src': 'test interface'}]], 'errorCode': 0, 'type': 'en2zh-CHS', 'smartResult': {'entries': ['', '测试接口\r\n'], 'type': 1}}
+2023-04-09 21:51:09,795-run_case_ddt.py-[line:42]-INFO - 日志信息：【Start executing the test case：Query HASE SST Maintenance】
+2023-04-09 21:51:09,795-run_case_ddt.py-[line:42]-INFO - 日志信息：【Start executing the test case：Query HASE SST Maintenance】
+2023-04-09 21:51:09,795-run_case_ddt.py-[line:42]-INFO - 日志信息：【Start executing the test case：Query HASE SST Maintenance】
+2023-04-09 21:51:09,795-run_case_ddt.py-[line:42]-INFO - 日志信息：【Start executing the test case：Query HASE SST Maintenance】
+2023-04-09 21:51:09,795-run_case_ddt.py-[line:42]-INFO - 日志信息：【Start executing the test case：Query HASE SST Maintenance】
+2023-04-09 21:51:09,796-run_case_ddt.py-[line:48]-INFO - 日志信息：Request parameters: {'exchangeId': '4170', 'companyTaxNo': '91310113MA1GLFN21P', 'signType': '1', 'signInfo': '24d9415fb799bed2f931b321b909d39c'}
+2023-04-09 21:51:09,796-run_case_ddt.py-[line:48]-INFO - 日志信息：Request parameters: {'exchangeId': '4170', 'companyTaxNo': '91310113MA1GLFN21P', 'signType': '1', 'signInfo': '24d9415fb799bed2f931b321b909d39c'}
+2023-04-09 21:51:09,796-run_case_ddt.py-[line:48]-INFO - 日志信息：Request parameters: {'exchangeId': '4170', 'companyTaxNo': '91310113MA1GLFN21P', 'signType': '1', 'signInfo': '24d9415fb799bed2f931b321b909d39c'}
+2023-04-09 21:51:09,796-run_case_ddt.py-[line:48]-INFO - 日志信息：Request parameters: {'exchangeId': '4170', 'companyTaxNo': '91310113MA1GLFN21P', 'signType': '1', 'signInfo': '24d9415fb799bed2f931b321b909d39c'}
+2023-04-09 21:51:09,796-run_case_ddt.py-[line:48]-INFO - 日志信息：Request parameters: {'exchangeId': '4170', 'companyTaxNo': '91310113MA1GLFN21P', 'signType': '1', 'signInfo': '24d9415fb799bed2f931b321b909d39c'}
+2023-04-09 21:51:10,245-run_case_ddt.py-[line:42]-INFO - 日志信息：【Start executing the test case：Download HASE HKD Order】
+2023-04-09 21:51:10,245-run_case_ddt.py-[line:42]-INFO - 日志信息：【Start executing the test case：Download HASE HKD Order】
+2023-04-09 21:51:10,245-run_case_ddt.py-[line:42]-INFO - 日志信息：【Start executing the test case：Download HASE HKD Order】
+2023-04-09 21:51:10,245-run_case_ddt.py-[line:42]-INFO - 日志信息：【Start executing the test case：Download HASE HKD Order】
+2023-04-09 21:51:10,245-run_case_ddt.py-[line:42]-INFO - 日志信息：【Start executing the test case：Download HASE HKD Order】
+2023-04-09 21:51:10,245-run_case_ddt.py-[line:42]-INFO - 日志信息：【Start executing the test case：Download HASE HKD Order】
+2023-04-09 21:51:10,246-run_case_ddt.py-[line:48]-INFO - 日志信息：Request parameters: {'exchangeId': '4170', 'companyTaxNo': '91310113MA1GLFN21P', 'signType': '1', 'signInfo': '24d9415fb799bed2f931b321b909d39c'}
+2023-04-09 21:51:10,246-run_case_ddt.py-[line:48]-INFO - 日志信息：Request parameters: {'exchangeId': '4170', 'companyTaxNo': '91310113MA1GLFN21P', 'signType': '1', 'signInfo': '24d9415fb799bed2f931b321b909d39c'}
+2023-04-09 21:51:10,246-run_case_ddt.py-[line:48]-INFO - 日志信息：Request parameters: {'exchangeId': '4170', 'companyTaxNo': '91310113MA1GLFN21P', 'signType': '1', 'signInfo': '24d9415fb799bed2f931b321b909d39c'}
+2023-04-09 21:51:10,246-run_case_ddt.py-[line:48]-INFO - 日志信息：Request parameters: {'exchangeId': '4170', 'companyTaxNo': '91310113MA1GLFN21P', 'signType': '1', 'signInfo': '24d9415fb799bed2f931b321b909d39c'}
+2023-04-09 21:51:10,246-run_case_ddt.py-[line:48]-INFO - 日志信息：Request parameters: {'exchangeId': '4170', 'companyTaxNo': '91310113MA1GLFN21P', 'signType': '1', 'signInfo': '24d9415fb799bed2f931b321b909d39c'}
+2023-04-09 21:51:10,246-run_case_ddt.py-[line:48]-INFO - 日志信息：Request parameters: {'exchangeId': '4170', 'companyTaxNo': '91310113MA1GLFN21P', 'signType': '1', 'signInfo': '24d9415fb799bed2f931b321b909d39c'}
+2023-04-09 21:51:10,430-run_case_ddt.py-[line:42]-INFO - 日志信息：【Start executing the test case：Create HASE ATM】
+2023-04-09 21:51:10,430-run_case_ddt.py-[line:42]-INFO - 日志信息：【Start executing the test case：Create HASE ATM】
+2023-04-09 21:51:10,430-run_case_ddt.py-[line:42]-INFO - 日志信息：【Start executing the test case：Create HASE ATM】
+2023-04-09 21:51:10,430-run_case_ddt.py-[line:42]-INFO - 日志信息：【Start executing the test case：Create HASE ATM】
+2023-04-09 21:51:10,430-run_case_ddt.py-[line:42]-INFO - 日志信息：【Start executing the test case：Create HASE ATM】
+2023-04-09 21:51:10,430-run_case_ddt.py-[line:42]-INFO - 日志信息：【Start executing the test case：Create HASE ATM】
+2023-04-09 21:51:10,430-run_case_ddt.py-[line:42]-INFO - 日志信息：【Start executing the test case：Create HASE ATM】
+2023-04-09 21:51:10,431-run_case_ddt.py-[line:48]-INFO - 日志信息：Request parameters: {'exchangeId': '4170', 'companyTaxNo': '91310113MA1GLFN21P', 'signType': '1', 'signInfo': '24d9415fb799bed2f931b321b909d39c'}
+2023-04-09 21:51:10,431-run_case_ddt.py-[line:48]-INFO - 日志信息：Request parameters: {'exchangeId': '4170', 'companyTaxNo': '91310113MA1GLFN21P', 'signType': '1', 'signInfo': '24d9415fb799bed2f931b321b909d39c'}
+2023-04-09 21:51:10,431-run_case_ddt.py-[line:48]-INFO - 日志信息：Request parameters: {'exchangeId': '4170', 'companyTaxNo': '91310113MA1GLFN21P', 'signType': '1', 'signInfo': '24d9415fb799bed2f931b321b909d39c'}
+2023-04-09 21:51:10,431-run_case_ddt.py-[line:48]-INFO - 日志信息：Request parameters: {'exchangeId': '4170', 'companyTaxNo': '91310113MA1GLFN21P', 'signType': '1', 'signInfo': '24d9415fb799bed2f931b321b909d39c'}
+2023-04-09 21:51:10,431-run_case_ddt.py-[line:48]-INFO - 日志信息：Request parameters: {'exchangeId': '4170', 'companyTaxNo': '91310113MA1GLFN21P', 'signType': '1', 'signInfo': '24d9415fb799bed2f931b321b909d39c'}
+2023-04-09 21:51:10,431-run_case_ddt.py-[line:48]-INFO - 日志信息：Request parameters: {'exchangeId': '4170', 'companyTaxNo': '91310113MA1GLFN21P', 'signType': '1', 'signInfo': '24d9415fb799bed2f931b321b909d39c'}
+2023-04-09 21:51:10,431-run_case_ddt.py-[line:48]-INFO - 日志信息：Request parameters: {'exchangeId': '4170', 'companyTaxNo': '91310113MA1GLFN21P', 'signType': '1', 'signInfo': '24d9415fb799bed2f931b321b909d39c'}
+2023-04-09 21:51:10,658-run_case_ddt.py-[line:42]-INFO - 日志信息：【Start executing the test case：Edit HASE ATM】
+2023-04-09 21:51:10,658-run_case_ddt.py-[line:42]-INFO - 日志信息：【Start executing the test case：Edit HASE ATM】
+2023-04-09 21:51:10,658-run_case_ddt.py-[line:42]-INFO - 日志信息：【Start executing the test case：Edit HASE ATM】
+2023-04-09 21:51:10,658-run_case_ddt.py-[line:42]-INFO - 日志信息：【Start executing the test case：Edit HASE ATM】
+2023-04-09 21:51:10,658-run_case_ddt.py-[line:42]-INFO - 日志信息：【Start executing the test case：Edit HASE ATM】
+2023-04-09 21:51:10,658-run_case_ddt.py-[line:42]-INFO - 日志信息：【Start executing the test case：Edit HASE ATM】
+2023-04-09 21:51:10,658-run_case_ddt.py-[line:42]-INFO - 日志信息：【Start executing the test case：Edit HASE ATM】
+2023-04-09 21:51:10,658-run_case_ddt.py-[line:42]-INFO - 日志信息：【Start executing the test case：Edit HASE ATM】
+2023-04-09 21:51:10,659-run_case_ddt.py-[line:48]-INFO - 日志信息：Request parameters: {'exchangeId': '4170', 'companyTaxNo': '91310113MA1GLFN21P', 'signType': '1', 'signInfo': '24d9415fb799bed2f931b321b909d39c'}
+2023-04-09 21:51:10,659-run_case_ddt.py-[line:48]-INFO - 日志信息：Request parameters: {'exchangeId': '4170', 'companyTaxNo': '91310113MA1GLFN21P', 'signType': '1', 'signInfo': '24d9415fb799bed2f931b321b909d39c'}
+2023-04-09 21:51:10,659-run_case_ddt.py-[line:48]-INFO - 日志信息：Request parameters: {'exchangeId': '4170', 'companyTaxNo': '91310113MA1GLFN21P', 'signType': '1', 'signInfo': '24d9415fb799bed2f931b321b909d39c'}
+2023-04-09 21:51:10,659-run_case_ddt.py-[line:48]-INFO - 日志信息：Request parameters: {'exchangeId': '4170', 'companyTaxNo': '91310113MA1GLFN21P', 'signType': '1', 'signInfo': '24d9415fb799bed2f931b321b909d39c'}
+2023-04-09 21:51:10,659-run_case_ddt.py-[line:48]-INFO - 日志信息：Request parameters: {'exchangeId': '4170', 'companyTaxNo': '91310113MA1GLFN21P', 'signType': '1', 'signInfo': '24d9415fb799bed2f931b321b909d39c'}
+2023-04-09 21:51:10,659-run_case_ddt.py-[line:48]-INFO - 日志信息：Request parameters: {'exchangeId': '4170', 'companyTaxNo': '91310113MA1GLFN21P', 'signType': '1', 'signInfo': '24d9415fb799bed2f931b321b909d39c'}
+2023-04-09 21:51:10,659-run_case_ddt.py-[line:48]-INFO - 日志信息：Request parameters: {'exchangeId': '4170', 'companyTaxNo': '91310113MA1GLFN21P', 'signType': '1', 'signInfo': '24d9415fb799bed2f931b321b909d39c'}
+2023-04-09 21:51:10,659-run_case_ddt.py-[line:48]-INFO - 日志信息：Request parameters: {'exchangeId': '4170', 'companyTaxNo': '91310113MA1GLFN21P', 'signType': '1', 'signInfo': '24d9415fb799bed2f931b321b909d39c'}
+2023-04-09 21:51:10,838-run_case_ddt.py-[line:42]-INFO - 日志信息：【Start executing the test case：Delete HASE ATM】
+2023-04-09 21:51:10,838-run_case_ddt.py-[line:42]-INFO - 日志信息：【Start executing the test case：Delete HASE ATM】
+2023-04-09 21:51:10,838-run_case_ddt.py-[line:42]-INFO - 日志信息：【Start executing the test case：Delete HASE ATM】
+2023-04-09 21:51:10,838-run_case_ddt.py-[line:42]-INFO - 日志信息：【Start executing the test case：Delete HASE ATM】
+2023-04-09 21:51:10,838-run_case_ddt.py-[line:42]-INFO - 日志信息：【Start executing the test case：Delete HASE ATM】
+2023-04-09 21:51:10,838-run_case_ddt.py-[line:42]-INFO - 日志信息：【Start executing the test case：Delete HASE ATM】
+2023-04-09 21:51:10,838-run_case_ddt.py-[line:42]-INFO - 日志信息：【Start executing the test case：Delete HASE ATM】
+2023-04-09 21:51:10,838-run_case_ddt.py-[line:42]-INFO - 日志信息：【Start executing the test case：Delete HASE ATM】
+2023-04-09 21:51:10,838-run_case_ddt.py-[line:42]-INFO - 日志信息：【Start executing the test case：Delete HASE ATM】
+2023-04-09 21:51:10,840-run_case_ddt.py-[line:48]-INFO - 日志信息：Request parameters: {'exchangeId': '4170', 'companyTaxNo': '91310113MA1GLFN21P', 'signType': '1', 'signInfo': '24d9415fb799bed2f931b321b909d39c'}
+2023-04-09 21:51:10,840-run_case_ddt.py-[line:48]-INFO - 日志信息：Request parameters: {'exchangeId': '4170', 'companyTaxNo': '91310113MA1GLFN21P', 'signType': '1', 'signInfo': '24d9415fb799bed2f931b321b909d39c'}
+2023-04-09 21:51:10,840-run_case_ddt.py-[line:48]-INFO - 日志信息：Request parameters: {'exchangeId': '4170', 'companyTaxNo': '91310113MA1GLFN21P', 'signType': '1', 'signInfo': '24d9415fb799bed2f931b321b909d39c'}
+2023-04-09 21:51:10,840-run_case_ddt.py-[line:48]-INFO - 日志信息：Request parameters: {'exchangeId': '4170', 'companyTaxNo': '91310113MA1GLFN21P', 'signType': '1', 'signInfo': '24d9415fb799bed2f931b321b909d39c'}
+2023-04-09 21:51:10,840-run_case_ddt.py-[line:48]-INFO - 日志信息：Request parameters: {'exchangeId': '4170', 'companyTaxNo': '91310113MA1GLFN21P', 'signType': '1', 'signInfo': '24d9415fb799bed2f931b321b909d39c'}
+2023-04-09 21:51:10,840-run_case_ddt.py-[line:48]-INFO - 日志信息：Request parameters: {'exchangeId': '4170', 'companyTaxNo': '91310113MA1GLFN21P', 'signType': '1', 'signInfo': '24d9415fb799bed2f931b321b909d39c'}
+2023-04-09 21:51:10,840-run_case_ddt.py-[line:48]-INFO - 日志信息：Request parameters: {'exchangeId': '4170', 'companyTaxNo': '91310113MA1GLFN21P', 'signType': '1', 'signInfo': '24d9415fb799bed2f931b321b909d39c'}
+2023-04-09 21:51:10,840-run_case_ddt.py-[line:48]-INFO - 日志信息：Request parameters: {'exchangeId': '4170', 'companyTaxNo': '91310113MA1GLFN21P', 'signType': '1', 'signInfo': '24d9415fb799bed2f931b321b909d39c'}
+2023-04-09 21:51:10,840-run_case_ddt.py-[line:48]-INFO - 日志信息：Request parameters: {'exchangeId': '4170', 'companyTaxNo': '91310113MA1GLFN21P', 'signType': '1', 'signInfo': '24d9415fb799bed2f931b321b909d39c'}

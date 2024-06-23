@@ -1,0 +1,5 @@
+# image environment: dev, sit, uat, hotfixes
+
+#deploy_env: "uat"
+deploy_env: "sit"
+automationurl: "alm-github.systems.uk.hsbc/OSS-IT-MachineLearningCOE/icash-automation-test-pipeline"

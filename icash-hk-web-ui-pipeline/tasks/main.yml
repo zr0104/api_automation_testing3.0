@@ -1,0 +1,19 @@
+
+# ************************build automation test package**************************
+- name: download automation test source code from {{ deploy_env }} git repository
+  git:
+    repo: "https://{{GithubSaToken | urlencode}}@{{ automationurl | urlencode}}"
+    dest: /opt/app/icash_automation_test_pipeline
+    version: "master"
+  when: deploy_env|string == "dev" or deploy_env|string == "sit" or deploy_env|string == "hotfixes"
+# ************************build automation test package**************************
+
+
+- name: copy icash-hk-service-automation-test.service
+  copy:
+    src: service-automation-test.service
+    dest: /opt/icash-hk-gcp-backend-systemd/service-automation-test.service
+    mode: u+x
+    owner: root
+    group: root
+    decrypt: yes

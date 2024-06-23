@@ -1,0 +1,6 @@
+2023-04-07 21:05:30,448-handle_files.py-[line:21]-INFO - 日志信息：delete __init__.py file successfully!
+2023-04-07 21:05:30,449-handle_files.py-[line:21]-INFO - 日志信息：delete 20210728160159.log file successfully!
+2023-04-07 21:05:30,450-handle_files.py-[line:21]-INFO - 日志信息：delete 20221101204207.log file successfully!
+2023-04-07 21:05:30,451-handle_files.py-[line:21]-INFO - 日志信息：delete report.html file successfully!
+2023-04-07 21:05:30,451-handle_files.py-[line:21]-INFO - 日志信息：delete 2021_07_28_16_16_53report.html file successfully!
+2023-04-07 21:05:30,452-handle_files.py-[line:23]-INFO - 日志信息：[WinError 3] 系统找不到指定的路径。: '/tmp/auto_check_report/'

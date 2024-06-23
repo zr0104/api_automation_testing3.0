@@ -1,0 +1,4 @@
+2023-07-02 16:17:21,424-logger.py-[line:38]-INFO - log message: info
+2023-07-02 16:17:21,424-logger.py-[line:39]-WARNING - log message: warning
+2023-07-02 16:17:21,424-logger.py-[line:40]-ERROR - log message: error
+2023-07-02 16:17:21,424-logger.py-[line:41]-CRITICAL - log message: critical

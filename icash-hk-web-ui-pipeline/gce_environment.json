@@ -1,0 +1,4 @@
+{
+  "_comment": "GCE environment: icashdev, icashsit, icashuat",
+  "deploy_gce": "icashsit"
+}

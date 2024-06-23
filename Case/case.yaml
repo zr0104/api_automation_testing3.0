@@ -1,0 +1,12 @@
+banner_case:
+  miaosu: 登陆
+  url: http://www.baidu.com
+  method: post
+  data: {
+    "username":"111111"
+  }
+  is_run: yes
+  cookie: write
+  qianzhi: login
+  exresult: message\json\data
+  result:
